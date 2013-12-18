@@ -1,0 +1,12 @@
+{
+  "name": "Peso Ideal",
+  "version": "1.0",
+  "description": "Peso Ideal",  
+  "launch_path": "/memos/index.html", 
+  "developer": {
+    "name": "Thiago Adriano"   
+  },
+  "icons": {  
+    "128": "/memos/img/icon-128.png"
+  }
+}

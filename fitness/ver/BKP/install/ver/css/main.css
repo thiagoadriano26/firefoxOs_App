@@ -1,0 +1,8 @@
+.form-dados {
+    display: table-row;
+}
+
+label, input {
+    display: table-cell;
+    /*max-width: 60% !important;*/
+}

@@ -1,0 +1,25 @@
+.form-dados {
+    display: table-row;
+}
+
+label, input {
+    display: table-cell;
+    /*max-width: 60% !important;*/
+}
+
+    input.placeholder {
+        text-align: center;
+    }
+
+input {
+    text-align: center;
+}
+
+footer {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    height: auto;
+    width: 90%;
+    margin-left: 15px;
+}
